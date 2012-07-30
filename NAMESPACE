@@ -1,0 +1,7 @@
+export(binom.diagnostics, lnorm,  lpois, lpois1, 
+	 panel.psyfun, psyfun.boot, thresh.est, polmer
+	)
+
+S3method(plot, binom.diag)
+
+
