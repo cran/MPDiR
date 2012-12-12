@@ -231,7 +231,7 @@ summary(mfGab.aov)
 ###################################################
 ### code chunk number 29: Models.Stex:958-961
 ###################################################
-library(lme4)
+library(lme4.0)
 mfGab.lmer <- lmer(LContSens ~ Stim + (1 | Obs), mfGab)
 print(mfGab.lmer, correlation = FALSE)
 
@@ -261,6 +261,17 @@ anova(mfGab.lmer, mfGab.lmer2)
  mfGab.mcmc <- mcmcsamp(mfGab.lmer2, n = 1000)
  HPDinterval(mfGab.mcmc)
 
+###################################################
+### mcmcsamp appears broken w/ respect to generating
+### estimates of the variance components; 
+###   conf. ints do not contain the estimate itself!
+###   Here is an alternate method w/ lme from nlme
+###################################################
+unloadNamespace("lme4.0")
+library(nlme)
+mfGab.lme <- lme(LContSens ~ Stim, data = mfGab,
+	random = ~ 1 | Obs/Stim)
+intervals(mfGab.lme)
 
 ###################################################
 ### code chunk number 34: Models.Stex:1090-1092

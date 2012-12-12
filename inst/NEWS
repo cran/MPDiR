@@ -1,0 +1,4 @@
+version 0.1.12
+  started NEWS file 
+  some fixes in scripts, new example to replace mcmcsamp usage w/ 
+  lme and intervals from nlme package

@@ -40,7 +40,7 @@ coef(summary(glm(Resp ~ Stim, binomial(probit), Faces2)))
 ###################################################
 ### code chunk number 4: MEmods.Stex:242-246
 ###################################################
-library(lme4)
+library(lme4.0)
 F2.glmm1 <- glmer(Resp ~ Stim + (1 | Obs) + (1 | Image), 
 	data =  Faces2, family = binomial(probit))
 F2.glmm1
