@@ -28,7 +28,7 @@ Zhaoping L. \& Jingling L. (2008) Filling-in and suppression of visual perceptio
 \examples{
 data(Context)
 Context <- within(Context, Pc <- NumYes/(NumYes + NumNo))
-lattice:::xyplot(Pc ~ TargCntr | ContCntr, data = Context, 
+lattice::xyplot(Pc ~ TargCntr | ContCntr, data = Context, 
 	groups = Obs,	type = c("l", "p"),
 	auto.key = list(space = "right"))
 }

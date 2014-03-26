@@ -1,9 +1,9 @@
 polmer <- function(formula, data, lnk = "logit", which.lme4 = "lme4.0",  ...){
 	if(require(which.lme4, character.only = TRUE)) invisible() else stop("need lme4 package installed!\n")
 # Get fixed and random terms
-   fxForm <- lme4:::nobars(formula)
+   fxForm <- lme4.0:::nobars(formula)
    fxForm[[2]] <- NULL
-   rTerms <- lme4:::findbars(formula)
+   rTerms <- lme4.0:::findbars(formula)
    ranTerms <- sapply(rTerms, deparse)
    fixTerms <- labels(terms(fxForm))
 	ranNames <- as.vector(sapply(ranTerms, function(x)

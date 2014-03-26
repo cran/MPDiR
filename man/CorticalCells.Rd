@@ -30,7 +30,7 @@ Peirce, J. W. (2007). The potential importance of saturating and supersaturating
 }
 \examples{
 data(CorticalCells)
-lattice:::xyplot(Response ~ Contrast | Cell, CorticalCells, 
+lattice::xyplot(Response ~ Contrast | Cell, CorticalCells, 
 	type = "b")
 }
 \keyword{datasets}

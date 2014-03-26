@@ -31,7 +31,7 @@ Watson, A.B., Ahumada, A.J. (2005) A standard model for foveal detection of spat
 Watson, A. (2006) The spatial standard observer: A human vision model for display inspection. \emph{SID Symposium Digest of Technical Papers}, vol. 37, pp. 1312--1315, SID 
 }
 \examples{
-data(ModelFest)
+data(ModelFest.df)
 str(ModelFest.df) 
 plot(ModelFest.df)
 }

@@ -22,10 +22,10 @@ panel.psyfun(x, y, n, lnk = "logit", ...)
 \author{Kenneth Knoblauch}
 \seealso{See also as \code{\link{lattice}}}
 \examples{
-lattice:::xyplot(Pc ~ Phaseshift | WaveForm + TempFreq + 
+lattice::xyplot(Pc ~ Phaseshift | WaveForm + TempFreq + 
 	Direction, Vernier, layout = c(4, 2),
 	panel = function(x, y, n = 20, ...) {
-		lattice:::panel.xyplot(x, y)
+		lattice::panel.xyplot(x, y)
 		panel.psyfun(x, y, 20, lnk = "probit")
 	}
 )

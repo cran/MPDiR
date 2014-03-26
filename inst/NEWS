@@ -1,3 +1,11 @@
+version 0.1.15
+  Mention of where to find lme4.0 in DESCRIPTION file to comply with CRAN policy
+
+version 0.1.14
+  fixed use of ::: to :: except for lme4.0 references which remain for the 
+  time in polmer function
+  fixed incorrect reference to data set in ModelFest.df example
+  
 version 0.1.12
   started NEWS file 
   some fixes in scripts, new example to replace mcmcsamp usage w/ 

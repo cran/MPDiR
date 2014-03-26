@@ -25,7 +25,7 @@
 
 \examples{
 data(HSP)
-lattice:::xyplot(p/100 ~ Q | Obs * Run, HSP,  
+lattice::xyplot(p/100 ~ Q | Obs * Run, HSP,  
 	type = c("p", "l"), 
 	scales = list(x = list(log = TRUE)), 
 	as.table = TRUE)
