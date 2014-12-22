@@ -1,3 +1,7 @@
+version 0.1.16
+  Deprecated polmer function.  The code is still available in the scripts, 'Ch9.R'
+  This serves to eiminate any explicit dependencies on the lme4.0 package.
+
 version 0.1.15
   Mention of where to find lme4.0 in DESCRIPTION file to comply with CRAN policy
 
