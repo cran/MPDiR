@@ -20,7 +20,7 @@ The data set contains the log contrast sensitivity measurments for the 43 stimul
 The ModelFest consortium was composed of a group of investigators from 10 laboratories who undertook to obtain measures of contrast sensitivity on a set of standardized achromatic stimuli, varying in spatial configuration, using a standardized set of procedures.
 }
 \source{
-\url{http://journalofvision.org/5/9/6/modelfestbaselinedata.csv}
+\url{https://jov.arvojournals.org//5/9/6/modelfestbaselinedata.csv}
 }
 \references{
 Carney, T., Tyler, C.W., Watson, A.B., Makous, W., Beutte, B., Chen, C.C., Norcia, A.M., Klein, S.A.(2000) Modelfest: year one results and plans for future years. 

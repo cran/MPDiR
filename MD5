@@ -1,5 +1,5 @@
-645e24bdbf935d6c9bf07c5acc9207a1 *DESCRIPTION
-7c8c2ca3fdca1de79c922d85dc7c52c3 *NAMESPACE
+af3b502a49f13af8ffcc88e312d12b0d *DESCRIPTION
+58f7c8f3d957745a4bc7be98016cb154 *NAMESPACE
 d71fb9de69c4c7e880a09ad3e5d2ed81 *R/binon.diagnostics.R
 9c931f5040afe96295d313a8046be803 *R/lpois.R
 e8831b2bf185640e85d1662581d8a444 *R/panel.psyfun.R
@@ -34,14 +34,14 @@ ae1fa8b9dadec679ea15ebd8aa45e3ec *inst/scripts/Ch9.R
 4ccf263592d8bb60a04de1fcbda9c312 *man/Chromatic.Rd
 85317d045f942e753358eacc03aa4ed0 *man/ConfRates.Rd
 fded438698cc99c62d0a5329df6a09c6 *man/Context.Rd
-7719207622e6bd1a3a1bb6879d424186 *man/CorticalCells.Rd
-16eea7b326b5275452a61a358fec0873 *man/Faces.Rd
-dccd725d2f6f98cf899451463a5b73e2 *man/Faces2.Rd
+583dd0ded79ef7e0b33629f1fbfba88a *man/CorticalCells.Rd
+a9caa38182e6f30ab01daaad26211ca9 *man/Faces.Rd
+2d78d14438504ee7e1ee4dfbf856b313 *man/Faces2.Rd
 4d2ad160c7a79974117d4f507016760d *man/Gabor.Rd
 f8b686ebb0e1053b48199e7c71dce96a *man/Grue.Rd
 21d465394026028f7c5f35ecc0281aec *man/HSP.Rd
 e77160cfaf81e49796f12605cb22a061 *man/MPDiR-package.Rd
-068a35c195e23c9a97584787cacf8045 *man/ModelFest.df.Rd
+5b5726f8989014f54bb9398a831c3fbc *man/ModelFest.df.Rd
 b55eebcd8d215abbc906452eaced2648 *man/Motion.Rd
 6d58315aa48ecdc84932c81e0f7dbc28 *man/StairCase.Rd
 d42e7520c6fa76ab43ee970f1b41b341 *man/Vernier.Rd

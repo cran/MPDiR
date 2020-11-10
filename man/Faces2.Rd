@@ -21,7 +21,7 @@ fashion.
 }
 
 \references{
-  Maloney, L. T., and Dal Martello, M. F. (2006). Kin recognition and the perceived facial similarity of children. \emph{Journal of Vision}, 6(10):4, 1047--1056, \url{http://journalofvision.org/6/10/4/}. 
+  Maloney, L. T., and Dal Martello, M. F. (2006). Kin recognition and the perceived facial similarity of children. \emph{Journal of Vision}, 6(10):4, 1047--1056, \url{https://jov.arvojournals.org//6/10/4/}. 
 }
 \examples{
 data(Faces)

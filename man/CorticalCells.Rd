@@ -26,7 +26,7 @@ Extracellular recordings of cells from macaque visual cortical areas V1 and V2. 
 \source{Data collected in Peter Lennie's lab, analysis 
 by Jon Peirce (see reference below)}
 \references{
-Peirce, J. W. (2007). The potential importance of saturating and supersaturating contrast response functions in visual cortex. \emph{Journal of Vision}, \bold{7(6):13}, 1--10, \url{http://journalofvision.org/7/6/13/}.
+Peirce, J. W. (2007). The potential importance of saturating and supersaturating contrast response functions in visual cortex. \emph{Journal of Vision}, \bold{7(6):13}, 1--10, \url{https://jov.arvojournals.org//7/6/13/}.
 }
 \examples{
 data(CorticalCells)

@@ -3,5 +3,7 @@ export(binom.diagnostics, lnorm,  lpois, lpois1,
 	)
 
 S3method(plot, binom.diag)
-
-
+importFrom("graphics", "abline", "hist", "lines", "par")
+importFrom("stats", "binomial", "coef", "family", "fitted", "formula",
+			"glm", "pnorm", "ppois", "predict", "qnorm", "rbinom",
+			"residuals")
