@@ -1,3 +1,6 @@
+version 0.1.20
+  Added GlassPatterns data set that was omitted or had disappeared.
+
 version 0.1.16
   Deprecated polmer function.  The code is still available in the scripts, 'Ch9.R'
   This serves to eiminate any explicit dependencies on the lme4.0 package.

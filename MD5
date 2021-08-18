@@ -1,4 +1,4 @@
-af3b502a49f13af8ffcc88e312d12b0d *DESCRIPTION
+46b4e0685fa4cc4da60f93ffd9c0105d *DESCRIPTION
 58f7c8f3d957745a4bc7be98016cb154 *NAMESPACE
 d71fb9de69c4c7e880a09ad3e5d2ed81 *R/binon.diagnostics.R
 9c931f5040afe96295d313a8046be803 *R/lpois.R
@@ -13,13 +13,14 @@ ba7d872816466669b542da9817813d43 *R/psyfun.boot.R
 cc69ae8bc0d7a877a6a7325b127aace3 *data/Faces.rda
 780e05894ccf5ec9e233b547723d85f2 *data/Faces2.rda
 cbcff7d5b8f84af16d15ecc793c3010b *data/Gabor.rda
+e29fa061d22f68e413f9bba71cce639b *data/GlassPatterns.rda
 5416892bc83d3e567d63dabd4cfa8095 *data/Grue.rda
 064ca7b3d1bb073f128a49ae1002a59b *data/HSP.rda
 ddf5354fcf535193ece7bb1f75ae0d12 *data/ModelFest.df.rda
 c90bb9bf380a4232f4aa5271a24a3f80 *data/Motion.rda
 e28c1eb6d08fa3c98b61a4893753a552 *data/StairCase.rda
 bc6ab804d9bbef7771048e3a81378525 *data/Vernier.rda
-5ab5c35e441111c5ef5045abc6dae118 *inst/NEWS
+60f1d0d2d78e6ad07e33f8466238ff15 *inst/NEWS
 579f6134d0374074a72ea3346df4b0de *inst/scripts/AppA.R
 1d4d3b9fbaef660b9b8b77d8aab41491 *inst/scripts/AppB.R
 c61173d17e0d16a2641d929c690e3b0e *inst/scripts/Ch1.R
@@ -38,6 +39,7 @@ fded438698cc99c62d0a5329df6a09c6 *man/Context.Rd
 a9caa38182e6f30ab01daaad26211ca9 *man/Faces.Rd
 2d78d14438504ee7e1ee4dfbf856b313 *man/Faces2.Rd
 4d2ad160c7a79974117d4f507016760d *man/Gabor.Rd
+08c4f95c043fe23197aab5ed3ef043ec *man/GlassPatterns.Rd
 f8b686ebb0e1053b48199e7c71dce96a *man/Grue.Rd
 21d465394026028f7c5f35ecc0281aec *man/HSP.Rd
 e77160cfaf81e49796f12605cb22a061 *man/MPDiR-package.Rd
