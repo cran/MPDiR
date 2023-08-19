@@ -8,16 +8,16 @@ Modeling Psychophysical Data in R
 \description{
 The package contains data sets, functions and scripts for the book Modeling Psychophysical Data in R
 }
-\details{
-\tabular{ll}{
-Package: \tab MPDiR\cr
-Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2007-08-31\cr
-License: \tab What license is it under?\cr
-}
+%\details{
+% \tabular{ll}{
+% Package: \tab MPDiR\cr
+% Type: \tab Package\cr
+% Version: \tab 1.0\cr
+% Date: \tab 2007-08-31\cr
+% License: \tab What license is it under?\cr
+% }
 
-}
+%}
 \author{
 Kenneth Knoblauch and Laurence T. Maloney
 

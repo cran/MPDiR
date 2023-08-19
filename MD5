@@ -1,4 +1,4 @@
-46b4e0685fa4cc4da60f93ffd9c0105d *DESCRIPTION
+1e10800d8a5bdc52580a806d2383cb4f *DESCRIPTION
 58f7c8f3d957745a4bc7be98016cb154 *NAMESPACE
 d71fb9de69c4c7e880a09ad3e5d2ed81 *R/binon.diagnostics.R
 9c931f5040afe96295d313a8046be803 *R/lpois.R
@@ -20,7 +20,7 @@ ddf5354fcf535193ece7bb1f75ae0d12 *data/ModelFest.df.rda
 c90bb9bf380a4232f4aa5271a24a3f80 *data/Motion.rda
 e28c1eb6d08fa3c98b61a4893753a552 *data/StairCase.rda
 bc6ab804d9bbef7771048e3a81378525 *data/Vernier.rda
-60f1d0d2d78e6ad07e33f8466238ff15 *inst/NEWS
+4ede8a85cff506774f75183944e8f02f *inst/NEWS
 579f6134d0374074a72ea3346df4b0de *inst/scripts/AppA.R
 1d4d3b9fbaef660b9b8b77d8aab41491 *inst/scripts/AppB.R
 c61173d17e0d16a2641d929c690e3b0e *inst/scripts/Ch1.R
@@ -34,7 +34,7 @@ e220493b3c68621d28fd231b0e209192 *inst/scripts/Ch6.R
 ae1fa8b9dadec679ea15ebd8aa45e3ec *inst/scripts/Ch9.R
 4ccf263592d8bb60a04de1fcbda9c312 *man/Chromatic.Rd
 85317d045f942e753358eacc03aa4ed0 *man/ConfRates.Rd
-fded438698cc99c62d0a5329df6a09c6 *man/Context.Rd
+d3a3d197b7d72a20e83b3aee4655e662 *man/Context.Rd
 583dd0ded79ef7e0b33629f1fbfba88a *man/CorticalCells.Rd
 a9caa38182e6f30ab01daaad26211ca9 *man/Faces.Rd
 2d78d14438504ee7e1ee4dfbf856b313 *man/Faces2.Rd
@@ -42,14 +42,14 @@ a9caa38182e6f30ab01daaad26211ca9 *man/Faces.Rd
 08c4f95c043fe23197aab5ed3ef043ec *man/GlassPatterns.Rd
 f8b686ebb0e1053b48199e7c71dce96a *man/Grue.Rd
 21d465394026028f7c5f35ecc0281aec *man/HSP.Rd
-e77160cfaf81e49796f12605cb22a061 *man/MPDiR-package.Rd
+fd5817b78aea6f683960f47bd0423f78 *man/MPDiR-package.Rd
 5b5726f8989014f54bb9398a831c3fbc *man/ModelFest.df.Rd
 b55eebcd8d215abbc906452eaced2648 *man/Motion.Rd
 6d58315aa48ecdc84932c81e0f7dbc28 *man/StairCase.Rd
 d42e7520c6fa76ab43ee970f1b41b341 *man/Vernier.Rd
-614c0ee84f80a96c206ec63c489d4206 *man/binom.diagnostics.Rd
+bf7b23d30a9d92c3acf67adc1e258770 *man/binom.diagnostics.Rd
 6146789208120ea1dfc1f210987cb6f4 *man/lpois.Rd
 f541c35ce9913ec83b24296e4c066560 *man/panel.psyfun.Rd
 131f7f3eac98bf4b57dc7e47e803710b *man/polmer.Rd
-8a4f69bbc3885a73314eb2ccb48d321f *man/psyfun.boot.Rd
+eaf55b5e892656908933b888c6b8939f *man/psyfun.boot.Rd
 e239714cd1d3a1165689eca6fefcd657 *man/thresh.est.Rd

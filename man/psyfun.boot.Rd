@@ -20,12 +20,12 @@ psyfun.boot(obj, N = 100)
  }
 \references{
 Maloney, L. T. (1990) Confidence interval for the parameters of psychometric functions.  
-\emph{Perception \& Psychophysics}, \bold{47(2)}, 127--134.
+\emph{Perception & Psychophysics}, \bold{47(2)}, 127--134.
 
 Foster, D.H., Bischof, W.F.(1997) Bootstrap estimates of the statistical accuracy of 
 thresholds obtained from psychometric functions. \emph{Spatial Vision}, \bold{11(1)}, 135--139.
 
-Treutwein, B., Strasburger, H. (1999) Fitting the psychometric function. \emph{Perception \& 
+Treutwein, B., Strasburger, H. (1999) Fitting the psychometric function. \emph{Perception & 
 Psychophysics}, \bold{61(1)}, 87--106.
 }
 

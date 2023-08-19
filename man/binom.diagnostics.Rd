@@ -45,7 +45,7 @@ Wood (2006) describes two diagnostics of the adequacy of a binary glm model base
 
 }
 \references{
-Wood, SN \emph{Generalized Additive Models: An Introduction with R}, Chapman \& Hall/CRC, 2006.
+Wood, SN \emph{Generalized Additive Models: An Introduction with R}, Chapman & Hall/CRC, 2006.
 }
 \author{
 Ken Knoblauch}

@@ -24,7 +24,7 @@ The number of trials on which the target was detected is reported as a function 
 Data kindly provided by Li Zhaoping
 }
 \references{
-Zhaoping L. \& Jingling L. (2008) Filling-in and suppression of visual perception from context---a Bayesian account of perceptual biases by contextual influences, \emph{PLoS Computational Biology} 4(2): e14 doi:10.1371/journal.pcbi.0040014 }
+Zhaoping L. & Jingling L. (2008) Filling-in and suppression of visual perception from context---a Bayesian account of perceptual biases by contextual influences, \emph{PLoS Computational Biology} 4(2): e14 doi:10.1371/journal.pcbi.0040014 }
 \examples{
 data(Context)
 Context <- within(Context, Pc <- NumYes/(NumYes + NumNo))

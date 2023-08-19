@@ -1,3 +1,9 @@
+version 0.2
+   corrected version misalignment in package man page and Description file
+
+version 0.1.21
+  Fixed escaped LaTeX specials in help files
+
 version 0.1.20
   Added GlassPatterns data set that was omitted or had disappeared.
 
@@ -17,3 +23,4 @@ version 0.1.12
   started NEWS file 
   some fixes in scripts, new example to replace mcmcsamp usage w/ 
   lme and intervals from nlme package
+  
